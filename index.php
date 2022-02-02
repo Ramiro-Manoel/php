@@ -1,5 +1,6 @@
 <?php
 
-	echo "Olá mundao";
+	echo "Olá mundao feio";
 
+	echo "oi, ta triste?"
 ?>
