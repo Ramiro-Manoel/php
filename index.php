@@ -4,5 +4,6 @@
 
 echo "mas pode ficar sereno q agr eu entendi melhor, mas aqui não funcionou muito bem nao";
     
-    
+    echo "acho que to pegando";
+
 ?>
